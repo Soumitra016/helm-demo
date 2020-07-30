@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  firstapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-07-30T16:57:58.6774524+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 14e89a1d9cbb21273e7666162ac10d9a84a996c3f9dca8534b8f0e5cfb21d269
+    name: firstapp
+    type: application
+    urls:
+    - https://github.com/Soumitra016/helm-demo/firstapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-07-30T16:57:58.6724189+05:30"
